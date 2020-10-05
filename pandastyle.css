@@ -17,5 +17,7 @@ img {
 }
 
 p {
-    border: solid 5px #123414
+    border: solid 5px #123414;
+    padding: 20px;
+    border-radius: 10px;
 }
