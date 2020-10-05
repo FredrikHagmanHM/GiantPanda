@@ -13,8 +13,9 @@ img {
     margin: 40px auto;
     border: dotted 15px #9295;
     padding: 20px;
-    
-
 
 }
 
+p {
+    border: solid 5px #123414
+}
